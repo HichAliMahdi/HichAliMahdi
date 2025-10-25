@@ -1,42 +1,76 @@
-# 👋 Hi there!
+# 👋 Welcome to My GitHub
 
-I'm a passionate system and cloud administrator who enjoys automating, optimizing, and securing infrastructure.  
-I love working with Linux, virtualization, and container technologies, and I’m always exploring new tools and architectures.
-
----
-
-### 🧠 About Me
-- 🖥️ Experienced in cloud environments (OpenStack, HCS, etc.)
-- 🐧 Linux enthusiast (Ubuntu, Debian, openSUSE)
-- 🛠️ Interested in DevOps, automation, and infrastructure design
-- 📚 Constantly learning and building new things
+I'm **Hichem Ali Mahdi**, a **Cloud & Systems Engineer** with 4+ years of experience designing, deploying, and maintaining secure, scalable IT infrastructures.  
+Currently enhancing my software development and system programming expertise at **42 Heilbronn School** in Germany.
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HichAliMahdi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HichAliMahdi&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=HichAliMahdi&theme=tokyonight)
-
----
-
-### 🧰 Tools & Technologies
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 💼 Professional Summary
+- ⚙️ Experienced in **Linux systems administration**, **cloud infrastructure**, and **network management**
+- ☁️ Skilled in **OpenStack**, **Proxmox**, **VMware ESXi**, and **Huawei Cloud Services**
+- 🔧 Expertise in **automation** (Ansible, Shell scripting, Terraform) and **containerization** (Docker)
+- 🔐 Strong focus on **security hardening**, **patch management**, and **disaster recovery**
+- 📈 Proven track record of **reducing incident response times by 30%** while maintaining **99%+ uptime**
 
 ---
 
-### 🌱 Currently Learning
-- Advanced automation with Ansible and Terraform  
-- CI/CD workflows and observability tools  
-- Cloud security and high-availability design
+### 🧰 Technical Skills
+**Systems & Virtualization:** Linux (Debian, Ubuntu), Windows Server, Proxmox, VMware ESXi  
+**Cloud & Infrastructure:** OpenStack, HCS, Docker, NGINX, SSH, DNS, Zabbix  
+**Automation & DevOps:** Ansible, Terraform (basic), GitLab CI, GitHub Actions, Jenkins (basic)  
+**Networking:** TCP/IP, Routing & Switching, VLANs, DHCP, NAT, VPN (OpenVPN, WireGuard), Firewalls (iptables, UFW)  
+**Security:** System hardening, Vulnerability assessment, Fail2Ban, Backup & Restore strategies  
+**Programming:** C, C++, Python, PHP, JavaScript, Laravel  
+**Monitoring & Logging:** Zabbix, Grafana (basic), journald, logrotate  
 
 ---
 
-⭐️ *Thanks for visiting my profile!*
+### 🧾 Certifications
+- 🎓 **3CX Certified Engineer** (Basic, Intermediate, Advanced V18)  
+- 🔒 **Fortinet NSE 1, 2, 3**  
+- 🖥️ **ESET Technical Certification Level 1**  
+- 💡 **cPanel & WHM Certifications**: Administrator, Sales Professional (CPSP), Professional (CPP), LiteSpeed  
+- 🧠 **ICT-TOWERS**: Quality of Service Fundamentals  
+
+---
+
+### 🏫 Education
+**42 Heilbronn School**, Germany — *Software Development Program* (2024 – Present)  
+**USTHB**, Algeria — *Master’s in Telecommunications Systems* (2018 – 2020)  
+*Master’s Thesis: Reduction and Evaluation of Blur Effect in Images*  
+
+---
+
+### 🌱 Interests & Soft Skills
+**Soft Skills:**  
+Project management • Risk analysis • Problem-solving • Cross-functional teamwork • Communication  
+
+**Interests:**  
+IT innovation • Cybersecurity • Cloud computing • Cinema • Sports • Sustainability  
+
+---
+
+### 📊 GitHub Insights
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HichAliMahdi&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HichAliMahdi&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=HichAliMahdi&theme=github-dark&hide_border=true)
+
+</div>
+
+---
+
+### 📫 Contact
+📍 **Heilbronn, Germany**  
+📧 [hichem.alimahdi@gmail.com](mailto:hichem.alimahdi@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/hichem-ali-mahdi/)  
+
+---
+
+<div align="center">
+
+⭐️ *"Building resilient systems through automation, security, and reliability."*
+
+</div>
