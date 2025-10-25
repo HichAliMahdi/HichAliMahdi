@@ -46,8 +46,6 @@ IT innovation • Cybersecurity • Cloud computing • Cinema • Sports • Su
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HichAliMahdi&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HichAliMahdi&layout=compact&theme=github_dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=HichAliMahdi&theme=github-dark&hide_border=true)
-
 </div>
 
 ---
