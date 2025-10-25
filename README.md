@@ -28,7 +28,6 @@ Currently enhancing my software development and system programming expertise at 
 ### 🏫 Education
 **42 Heilbronn School**, Germany — *Software Development Program* (2024 – Present)  
 **USTHB**, Algeria — *Master’s in Telecommunications Systems* (2018 – 2020)  
-*Master’s Thesis: Reduction and Evaluation of Blur Effect in Images*  
 
 ---
 
