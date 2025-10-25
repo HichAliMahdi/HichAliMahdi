@@ -25,15 +25,6 @@ Currently enhancing my software development and system programming expertise at 
 
 ---
 
-### 🧾 Certifications
-- 🎓 **3CX Certified Engineer** (Basic, Intermediate, Advanced V18)  
-- 🔒 **Fortinet NSE 1, 2, 3**  
-- 🖥️ **ESET Technical Certification Level 1**  
-- 💡 **cPanel & WHM Certifications**: Administrator, Sales Professional (CPSP), Professional (CPP), LiteSpeed  
-- 🧠 **ICT-TOWERS**: Quality of Service Fundamentals  
-
----
-
 ### 🏫 Education
 **42 Heilbronn School**, Germany — *Software Development Program* (2024 – Present)  
 **USTHB**, Algeria — *Master’s in Telecommunications Systems* (2018 – 2020)  
