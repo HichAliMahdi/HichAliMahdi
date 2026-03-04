@@ -5,7 +5,8 @@ Currently enhancing my software development and system programming expertise at 
 
 ---
 
-### 💼 Professional Summary
+## 💼 Professional Summary
+
 - ⚙️ Experienced in **Linux systems administration**, **cloud infrastructure**, and **network management**
 - ☁️ Skilled in **OpenStack**, **Proxmox**, **VMware ESXi**, and **Huawei Cloud Services**
 - 🔧 Expertise in **automation** (Ansible, Shell scripting, Terraform) and **containerization** (Docker)
@@ -14,43 +15,66 @@ Currently enhancing my software development and system programming expertise at 
 
 ---
 
-### 🧰 Technical Skills
-**Systems & Virtualization:** Linux (Debian, Ubuntu), Windows Server, Proxmox, VMware ESXi  
-**Cloud & Infrastructure:** OpenStack, HCS, Docker, NGINX, SSH, DNS, Zabbix  
-**Automation & DevOps:** Ansible, Terraform (basic), GitLab CI, GitHub Actions, Jenkins (basic)  
-**Networking:** TCP/IP, Routing & Switching, VLANs, DHCP, NAT, VPN (OpenVPN, WireGuard), Firewalls (iptables, UFW)  
-**Security:** System hardening, Vulnerability assessment, Fail2Ban, Backup & Restore strategies  
-**Programming:** C, C++, Python, PHP, JavaScript, Laravel  
-**Monitoring & Logging:** Zabbix, Grafana (basic), journald, logrotate  
+## 🧰 Technical Skills
+
+### 🖥 Systems & Virtualization
+Linux (Debian, Ubuntu) • Windows Server • Proxmox • VMware ESXi  
+
+### ☁️ Cloud & Infrastructure
+OpenStack • Huawei Cloud Services • Docker • NGINX • SSH • DNS • Zabbix  
+
+### 🔄 Automation & DevOps
+Ansible • Terraform (basic) • GitLab CI • GitHub Actions • Jenkins (basic)  
+
+### 🌐 Networking
+TCP/IP • Routing & Switching • VLANs • DHCP • NAT  
+VPN (OpenVPN, WireGuard) • Firewalls (iptables, UFW)  
+
+### 🔐 Security
+System hardening • Vulnerability assessment • Fail2Ban  
+Backup & Restore strategies  
+
+### 💻 Programming
+C • C++ • Python • PHP • JavaScript • Laravel  
+
+### 📊 Monitoring & Logging
+Zabbix • Grafana (basic) • journald • logrotate  
 
 ---
 
-### 🏫 Education
+## 🏫 Education
+
 **42 Heilbronn School**, Germany — *Software Development Program* (2024 – Present)  
 **USTHB**, Algeria — *Master’s in Telecommunications Systems* (2018 – 2020)  
 
 ---
 
-### 🌱 Interests & Soft Skills
-**Soft Skills:**  
-Project management • Risk analysis • Problem-solving • Cross-functional teamwork • Communication  
+## 🌱 Interests & Soft Skills
 
-**Interests:**  
-IT innovation • Cybersecurity • Cloud computing • Cinema • Sports • Sustainability  
+### Soft Skills
+Project management • Risk analysis • Problem-solving  
+Cross-functional teamwork • Communication  
+
+### Interests
+IT innovation • Cybersecurity • Cloud computing  
+Cinema • Sports • Sustainability  
 
 ---
 
-### 📊 GitHub Insights
+## 📊 GitHub Insights
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HichAliMahdi&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HichAliMahdi&layout=compact&theme=github_dark&hide_border=true)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=hichalimahdi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hichalimahdi&layout=compact&theme=github_dark&hide_border=true&count_private=true"/>
+
 </div>
 
 ---
 
-### 📫 Contact
+## 📫 Contact
+
 📍 **Heilbronn, Germany**  
 📧 [hichem.alimahdi@gmail.com](mailto:hichem.alimahdi@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/hichem-ali-mahdi/)  
